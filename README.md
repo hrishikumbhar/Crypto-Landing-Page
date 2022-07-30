@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 5 :- Crypto Landing Page
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 5 
 
 ### What I Learned from this Project?
 
@@ -16,6 +15,8 @@
 
 ### This project took around 2 hours to complete.
 
-### Screenshot
+### Project Link : [Link](https://crypto-landing-dashboard.netlify.app/)
+
+### Screenshot :
 
 ![](./screenshot/Screenshot%20(20).png)
